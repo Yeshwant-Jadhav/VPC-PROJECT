@@ -34,3 +34,17 @@ This project include public and private subnets .
 
  scp -i /C/Users/Yeshwant/Downloads/BASTION_HOST.pem(this the identity file) /C/Users/Yeshwant/Downloads/Auto_scalling.pem ubuntu@13.232.185.72:/home/ubuntu        
 
+ ## Deployed the simple python web application on port 8000 on private server(EC2) 
+ 
+
+![Screenshot (412)](https://github.com/Yeshwant-Jadhav/VPC-PROJECT/assets/153003135/0f821023-165d-4fe5-9176-2adc1ef2cdc1)
+
+
+## Finally able to access the webpage using load balancer DNS
+
+
+![Screenshot (413)](https://github.com/Yeshwant-Jadhav/VPC-PROJECT/assets/153003135/3bf94d0a-519a-4e02-bca5-8ad4ec287731)
+
+
+
+
